@@ -34,6 +34,7 @@ EXPECTED OUTPUT-----------------
 3. All Appointment history.
 
 USER INTERFACE DETAILS-----------------
+
 All users can interact with system via Web Application. 
 
  1. Login Admin, Doctor and Patient.
